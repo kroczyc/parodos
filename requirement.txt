@@ -1,0 +1,10 @@
+findspark==1.2.0
+fxcmpy==1.1.16
+jupyter==1.0.0
+matplotlib==2.2.2
+numpy==1.14.3
+pandas==0.22.0
+plotly==2.6.0
+pyarrow==0.9.0
+scipy==1.1.0
+seaborn==0.8.1
