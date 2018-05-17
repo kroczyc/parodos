@@ -72,8 +72,15 @@ ENV/
 env.bak/
 venv.bak/
 
-#date
-data/
+#data
+data/forexdataint
+data/forexdatajoin
+data/forexdatam
+spark-warehouse
+
+#dirty stuff for test
+dirty*.*
+
 
 # mkdocs documentation
 /site
